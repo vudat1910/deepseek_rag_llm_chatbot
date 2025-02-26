@@ -2,7 +2,5 @@ streamlit
 langchain
 langchain_ollama
 langchain_core
-os
-tempfile
 langchain_community
 langchain_chroma
